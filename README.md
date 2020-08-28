@@ -18,6 +18,6 @@ python3 check.py xd2mar.txt 50
 0* Finally,the tool will save the correct tokens in a file
 results.txt
 
-snapchat : d2mar / telegram : xd2mar
+snapchat : @d2mar / Twitter : @qk9
 
 
